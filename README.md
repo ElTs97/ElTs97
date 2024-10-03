@@ -22,6 +22,10 @@ Introduction to Importing Data in Python<br>
 Cleaning Data in Python<br>
 Intermediate Python for Developers<br>
 Intermediate Importing Data in Python<br>
-Hierarchical and Recursive Queries in SQL Server
+Hierarchical and Recursive Queries in SQL Server<br>
+Cleaning Data in Python<br>
+Writing efficient code in Python<br>
+Streamlined Data Ingestion with pandas
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
