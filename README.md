@@ -1,8 +1,9 @@
-## Hi, I'm Eleftheria!
+## Hi, I'm Eleftheria or Ellie (for simplicity)!
 
 # 💫 About Me:
 👩🏻‍💻 Data Scientist, studied BSc in Business Economics and MSc in Economics with specialisation in Data Science & Behavioural Economics<br>
 📩 eleftheria.tsioufi@gmail.com<br>
+📞 +31 623003060<br>
 💭 Currently learning Generative AI & AWS<br>
 💫 Fun fact: Learning Korean & Japanese<br>
 
