@@ -18,10 +18,10 @@
 | Python Courses                                       | SQL Courses                                   |
 |-----------------------------------------------------|-----------------------------------------------|
 | Introduction to Python                              | Hierarchical and Recursive Queries in SQL Server |
-| Intermediate Python                                  |                                               |
-| Introduction to Python for Developers                |                                               |
-| Introduction to Importing Data in Python            |                                               |
-| Cleaning Data in Python                             |                                               |
+| Intermediate Python                                  | Intoroduction to SQL                            |
+| Introduction to Python for Developers                | Intermediate SQL                                |
+| Introduction to Importing Data in Python            |  Database Design                                 |
+| Cleaning Data in Python                             |  Data Warehousing Concepts                         |
 | Intermediate Python for Developers                   |                                               |
 | Intermediate Importing Data in Python               |                                               |
 | Writing Efficient Code in Python                    |                                               |
